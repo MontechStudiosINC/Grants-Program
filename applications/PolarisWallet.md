@@ -3,7 +3,7 @@
 - **Team Name:** Montech Studios
 - **Payment Details:**
   - **DOT**: 5G1ShV9Q3ZKrJTfz42iRd4AEuWfhJmp6wFSGwe75RQyBwH3a
-- **[Level]** 3
+- **Level:** Level 3
 
 
 ## Project Overview :page_facing_up:
