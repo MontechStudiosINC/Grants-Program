@@ -53,18 +53,9 @@ Real-Time Exchange Rates: The on-ramp feature provides real-time exchange rates 
 Implement robust security measures to protect user funds and personal information.
 Ensure compliance with relevant regulations across different jurisdictions.
 
-- Products of Note
-https://docs.celo.org/developer/build-on-minipay/overview
-https://www.opera.com/products/minipay
-https://medium.com/@velocity-labs/introducing-turtle-a-frictionless-cross-chain-token-transfer-solution-c0b50e1d0a30
-
-
-- PoC/MVP or other relevant prior work or research on the topic
 - Disclaimers
 - What your project is *not* or will *not* provide or implement
   - Montech will Provide seamless access to 15 parachains linked to Polkadot’s Asset Hub in the PoC/MVP
-
-
 
 ### Ecosystem Fit
 
@@ -83,9 +74,13 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
     - 
 - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
   - Yes, there are a few similar projects:
-
       Subwallet: A browser extension wallet for managing Polkadot and Kusama assets. However, Subwallet focuses more on non-custodial services, whereas Polaris provides a custodial wallet for non-crypto-native users.
       Polkadot-JS Wallet: A powerful, developer-focused tool for interacting with the Polkadot network, but it lacks the user-friendly custodial and fiat-to-crypto features that Polaris offers.
+      
+      https://docs.celo.org/developer/build-on-minipay/overview
+      https://www.opera.com/products/minipay
+      https://medium.com/@velocity-labs/introducing-turtle-a-frictionless-cross-chain-token-transfer-solution-c0b50e1d0a30
+    
       How Polaris is Different:
       Polaris differentiates itself by offering a custodial solution with a simple, intuitive interface targeting non-crypto-native users. It also integrates Snowbridge for cross-chain asset management, which is not a feature in other Polkadot-native wallets.
 - Are there any projects similar to yours in related ecosystems? 
@@ -95,8 +90,6 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 > Please note that the data provided in this section is for administrative and informational purposes only. All beneficiaries of a grant must also be listed in the KYC/KYB process during the application phase. See our [FAQ](https://grants.web3.foundation/docs/faq#what-is-kyckyb-and-why-do-i-have-to-provide-this-data) for more info.
 
 ### Team members
-
-- Olumide Akinwande
 
 - Technical Lead: Olumide Akinwande
 - Chief Architect: Brian Dawson
@@ -121,9 +114,11 @@ Support Staff: Post-launch support and maintenance team
 
 Here is a list of projects built by the Montech Team  - https://drive.google.com/file/d/14pfbFONKriF7TxTvHwFst-R_Fnp4g61O/view?ts=66bcb99d
 We have not applied for a grant before
+
 ### Team Code Repos
 
 - https://github.com/Montech-Studios-INC
+- Most projects are private
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 Case Study Document
@@ -137,7 +132,7 @@ Case Study Document
 
 ## Development Status :open_book:
 
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying.
 - https://docs.google.com/document/d/11SL_CjCBApTa3UPj9Hii4kLIcXaPO8nwVmraYyw0XHM/edit
 - Preliminary Designs - https://www.figma.com/design/MCHgoPbuSiweOuxucSHmyV/Polaris-Wallet?node-id=0-1
 
@@ -239,7 +234,7 @@ If you've already started implementing your project or it is part of a larger re
 - ### Milestone 6 — Deployment & Launch
 
 - **Estimated Duration:** 2
-- **FTE:**  5
+- **FTE:**  4
 - **Costs:** 17,500 USD
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -275,7 +270,8 @@ You can find more information about the program [here](../README.md#moneybag-ref
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** Velocity Labs.
-Case Study of Projects built by Montech Studios - https://drive.google.com/file/d/14pfbFONKriF7TxTvHwFst-R_Fnp4g61O/view?ts=66bcb99d
 - Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+Case Study of Projects built by Montech Studios - https://drive.google.com/file/d/14pfbFONKriF7TxTvHwFst-R_Fnp4g61O/view?ts=66bcb99d
+
+- If there are any other teams who have already contributed (financially) to the project. NA
+- Previous grants you may have applied for. NA
