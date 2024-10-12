@@ -2,7 +2,7 @@
 
 - **Team Name:** Montech Studios
 - **Payment Details:**
-  - **DOT**: 5G1ShV9Q3ZKrJTfz42iRd4AEuWfhJmp6wFSGwe75RQyBwH3a
+  - **DOT**: 15AxAomWnGeqeW2q49VGsUv3ohAbr9BhdBuey9cqK2p7ZvHG
 - **Level:** Level 3
 
 
@@ -142,14 +142,14 @@ If you've already started implementing your project or it is part of a larger re
 
 - **Total Estimated Duration:** Duration of the whole project - 6 Months
 - **Full-Time Equivalent (FTE):**  6 FTE  
-- **Total Costs:** Requested amount in USD for the whole project is 175,000 USD 
-- **DOT %:** Percentage of Total Costs to be paid in (vested) DOT (30%)
+- **Total Costs:** Requested amount in USD for the whole project is 90,000 USD 
+- **DOT %:** Percentage of Total Costs to be paid in (vested) DOT (50%)
 
 ### Milestone 1  — Research & Planning
 
 - **Estimated duration:** 1 month
 - **FTE:**  3
-- **Costs:** 43,750 USD
+- **Costs:** 16,250 USD
 
 > :exclamation: **The default deliverables 0a-0d below are mandatory for all milestones**, and deliverable 0e at least for the last one.
 
@@ -159,16 +159,16 @@ If you've already started implementing your project or it is part of a larger re
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#documentation) for details. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#testing-guide) for details. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-|   0e    |We will provide an article summarizing the innovations introduced during the development of Polaris Wallet. This article will be published on Medium.
-|   1.a   |Final list of parachains and DeFi services to integrate.
-|   1.b   |Architecture and technical approach defined.
+| **0e**  |We will provide an article summarizing the innovations introduced during the development of Polaris Wallet. This article will be published on Medium.
+| **1.a** |Final list of parachains and DeFi services to integrate.
+| **1.b** |Architecture and technical approach defined.
 
 
 ### Milestone 2  — Design & Prototyping
 
 - **Estimated Duration:** 1 month
 - **FTE:**  5
-- **Costs:** 35,000 USD
+- **Costs:** 20,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -176,58 +176,58 @@ If you've already started implementing your project or it is part of a larger re
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#documentation) for details. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#testing-guide) for details. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-|   0e    |Complete UI wireframes and design prototypes.
-|   1.a   |Feedback incorporated. https://www.figma.com/design/MCHgoPbuSiweOuxucSHmyV/Polaris-Wallet?node-id=0-1
+| **0e**  |Complete UI wireframes and design prototypes.
+| **1.a** |Feedback incorporated. https://www.figma.com/design/MCHgoPbuSiweOuxucSHmyV/Polaris-Wallet?node-id=0-1
 
 
 ### Milestone 3 — Development (Midpoint)
 
 - **Estimated Duration:** 1 month
 - **FTE:**  5
-- **Costs:** 35,000 USD
+- **Costs:** 20,000 USD
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#license) for details. |
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#documentation) for details. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#testing-guide) for details. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-|   0e    | We will integrate the ability to manage DOT and stablecoins on Polkadot's Asset Hub, providing full support for deposits, transfers, and withdrawals. https://wiki.polkadot.network/docs/general/dune-analytics/assethub-dashboards
-|   1.a   | Integrate Snowbridge to enable seamless bridging of assets from Ethereum (e.g., USDC, USDT) to Polkadot’s network. https://docs.snowbridge.network/architecture/components
-|   1.b   | Enable users to engage with DeFi services like yield farming, staking, lending, and borrowing across multiple Polkadot parachains. https://wiki.polkadot.network/docs/general/dune-analytics/interlay-dashboards
+| **0e**  | We will integrate the ability to manage DOT and stablecoins on Polkadot's Asset Hub, providing full support for deposits, transfers, and withdrawals. https://wiki.polkadot.network/docs/general/dune-analytics/assethub-dashboards
+| **1.a** | Integrate Snowbridge to enable seamless bridging of assets from Ethereum (e.g., USDC, USDT) to Polkadot’s network. https://docs.snowbridge.network/architecture/components
+| **1.b** | Enable users to engage with DeFi services like yield farming, staking, lending, and borrowing across multiple Polkadot parachains. https://wiki.polkadot.network/docs/general/dune-analytics/interlay-dashboards
 
 
 ### Milestone 4 — Development (Completion)
 
 - **Estimated Duration:** 1 month
 - **FTE:**  5
-- **Costs:** 26,250 USD
+- **Costs:** 16,250 USD
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#license) for details. |
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#documentation) for details. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#testing-guide) for details. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-|   0e    | Implement custodial authentication for users, allowing secure and easy access to their Polaris Wallet accounts.
-|   1.a   | Implement non-custodial authentication for advanced users who prefer to maintain full control of their keys and assets.
-|   1.b   | Develop a fiat-to-crypto conversion feature, enabling users to convert fiat currencies (e.g., USD, EUR) into supported crypto assets directly into their custodial wallet. https://www.moonpay.com/buy/dot
-|   1.c   | Implement real-time exchange rates to provide users with accurate and transparent conversion rates when converting fiat to crypto.
-|   1.d   | Comprehensive documentation I | We will provide comprehensive documentation for developers - on how to start the application and different functions overview (Via GitHub pages) |
-|   1.e   | Comprehensive documentation II | We will provide comprehensive documentation for users - on how to create a Polkadot wallet, how to use the application, and a basic application overview (Via Github pages) |
+| **0e**  | Implement custodial authentication for users, allowing secure and easy access to their Polaris Wallet accounts.
+| **1.a** | Implement non-custodial authentication for advanced users who prefer to maintain full control of their keys and assets.
+| **1.b** | Develop a fiat-to-crypto conversion feature, enabling users to convert fiat currencies (e.g., USD, EUR) into supported crypto assets directly into their custodial wallet. https://www.moonpay.com/buy/dot
+| **1.c** | Implement real-time exchange rates to provide users with accurate and transparent conversion rates when converting fiat to crypto.
+| **1.d** | Comprehensive documentation I | We will provide comprehensive documentation for developers - on how to start the application and different functions overview (Via GitHub pages) |
+| **1.e** | Comprehensive documentation II | We will provide comprehensive documentation for users - on how to create a Polkadot wallet, how to use the application, and a basic application overview (Via Github pages) |
 
 
 ### Milestone 5 — Testing & QA
 
 - **Estimated Duration:** 1 month
 - **FTE:**  5
-- **Costs:** 17,500 USD
+- **Costs:** 10,000 USD
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#license) for details. |
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#documentation) for details. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#testing-guide) for details. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone.
-|   0e    | Conduct comprehensive unit and integration tests to ensure all functionalities work as intended across various platforms.
-|   1.a   | Complete UAT to ensure that the wallet provides a smooth and user-friendly experience for non-crypto-native users.
+| **0e**  | Conduct comprehensive unit and integration tests to ensure all functionalities work as intended across various platforms.
+| **1.a** | Complete UAT to ensure that the wallet provides a smooth and user-friendly experience for non-crypto-native users.
 
 
 
@@ -235,14 +235,14 @@ If you've already started implementing your project or it is part of a larger re
 
 - **Estimated Duration:** 2
 - **FTE:**  4
-- **Costs:** 17,500 USD
+- **Costs:** 7,500 USD
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#license) for details. |
 | **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#documentation) for details. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#testing-guide) for details. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-|   0e    | Establish Plan for ongoing maintenance
+| **0e**  | Establish Plan for ongoing maintenance
 
 
 ## Future Plans
@@ -260,6 +260,7 @@ Mobile App Launch: After the web wallet is fully functional, we intend to expand
 Cross-Ecosystem Interoperability: We aim to make Polaris a cross-chain wallet by integrating other leading blockchain ecosystems such as Solana, Avalanche, and Binance Smart Chain, allowing users to manage assets across multiple chains from a single interface.
 Compliance & Security: As the platform scales, we will continuously improve our security infrastructure and ensure compliance with global regulations, building trust with institutional users and enterprises.
 Global Adoption: Our long-term goal is to position Polaris Wallet as a leading custodial wallet in the blockchain space, onboarding millions of non-crypto-native users globally. This will be achieved through strategic partnerships, product improvements, and expanding into new markets.
+
 ## Referral Program (optional) :moneybag:
 
 You can find more information about the program [here](../README.md#moneybag-referral-program).
