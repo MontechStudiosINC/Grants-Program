@@ -202,6 +202,7 @@ If you've already started implementing your project or it is part of a larger re
 - **Estimated Duration:** 1 month
 - **FTE:**  5
 - **Costs:** 16,250 USD
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0. See the [delivery guidelines](https://grants.web3.foundation/docs/Support%20Docs/milestone-deliverables-guidelines#license) for details. |
